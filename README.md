@@ -1,5 +1,7 @@
 # Cisco Packet Tracer Labs
 
+![Banner](bannerCiscoPaketTracer.png)
+
 Labs created during my networking studies using Cisco Packet Tracer.
 
 ## Topics
